@@ -1,2 +1,5 @@
-# serve
-A Web framework Pure implement by Golang refer to Gin.
+# 基于 http 的 Web 框架
+
+提供基本的动态路由、中间件及模板解析系列功能。
+
+
